@@ -1,31 +1,49 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Build with purpose</title>
-  <desc id="desc">A midnight blue banner with a mint green code motif and the GitHub handle 2426157663-collab.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">栀子海</title>
+  <desc id="desc">奶油白纸面、青绿色海浪与一朵盛开的栀子花。实验报告与学习随记的个人档案。</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#101E37"/>
-      <stop offset="1" stop-color="#172F46"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" stroke="#CCE7EF" stroke-opacity=".045"/>
-    </pattern>
+    <linearGradient id="paper" x1="0" y1="0" x2="1280" y2="420" gradientUnits="userSpaceOnUse"><stop stop-color="#FAF8F0"/><stop offset="1" stop-color="#EDF4EE"/></linearGradient>
+    <linearGradient id="petal" x1="-25" y1="-110" x2="30" y2="30" gradientUnits="userSpaceOnUse"><stop stop-color="#FFFFFF"/><stop offset="1" stop-color="#E1E8D9"/></linearGradient>
+    <radialGradient id="heart"><stop stop-color="#E3BD77"/><stop offset="1" stop-color="#F6ECCF"/></radialGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".7" fill="#31574F" fill-opacity=".08"/></pattern>
+    <path id="outer-petal" d="M0 15C-29 0-63-31-55-66C-51-87-23-110-7-112C12-104 44-82 46-57C48-24 21 2 0 15Z"/>
+    <path id="inner-petal" d="M0 12C-22 1-40-22-31-47C-27-62-10-75 3-76C23-63 36-44 30-27C25-9 12 5 0 12Z"/>
   </defs>
-  <rect width="1280" height="340" rx="20" fill="url(#bg)"/>
-  <rect width="1280" height="340" rx="20" fill="url(#grid)"/>
-  <circle cx="1190" cy="-10" r="205" stroke="#98E2CA" stroke-opacity=".10"/>
-  <circle cx="1190" cy="-10" r="150" stroke="#98E2CA" stroke-opacity=".10"/>
-  <rect x="64" y="58" width="28" height="4" rx="2" fill="#9CE4C9"/>
-  <text x="105" y="66" fill="#9CE4C9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">A PERSONAL WORKSPACE</text>
-  <text x="64" y="150" fill="#F1F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Build with purpose.</text>
-  <text x="67" y="197" fill="#ADBDCF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="22">Small ideas. Useful software. Steady progress.</text>
-  <path d="M66 235H780" stroke="#BFD5E5" stroke-opacity=".15"/>
-  <text x="67" y="278" fill="#D2E0EB" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="19">@2426157663-collab</text>
-  <g transform="translate(942 89)">
-    <rect width="224" height="164" rx="18" fill="#0D2032" stroke="#8AB3C6" stroke-opacity=".25"/>
-    <path d="M0 38H224" stroke="#8AB3C6" stroke-opacity=".15"/>
-    <circle cx="22" cy="20" r="4" fill="#9CE4C9"/>
-    <circle cx="38" cy="20" r="4" fill="#4E7186"/>
-    <circle cx="54" cy="20" r="4" fill="#4E7186"/>
-    <path d="M70 74L43 101L70 128M154 74L181 101L154 128M125 66L100 137" stroke="#9CE4C9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect width="1280" height="420" rx="20" fill="url(#paper)"/>
+  <rect x="754" y="35" width="490" height="340" fill="url(#dots)"/>
+  <path d="M0 354C158 299 279 401 445 356C604 313 695 335 849 356C1013 379 1117 295 1280 323V420H0Z" fill="#DEEAE4"/>
+  <path d="M0 388C174 329 284 428 467 381C653 334 771 393 940 380C1089 369 1177 350 1280 365V420H0Z" fill="#C2DAD1"/>
+  <path d="M0 399C170 362 306 423 473 399C647 374 803 418 970 400C1104 385 1191 391 1280 394" stroke="#8AB2A5" stroke-width="1.5"/>
+  <path d="M72 62H107" stroke="#567D70" stroke-width="1.5"/>
+  <text x="121" y="67" fill="#567D70" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="3.5">A PERSONAL ARCHIVE</text>
+  <text x="68" y="205" fill="#284E44" font-family="Noto Serif CJK SC,Songti SC,STSong,serif" font-size="104" font-weight="500" letter-spacing="16">栀子海</text>
+  <text x="76" y="251" fill="#5D7B70" font-family="Georgia,Times New Roman,serif" font-size="21" font-style="italic" letter-spacing="1.5">Gardenia &amp; Sea</text>
+  <path d="M76 277H401" stroke="#79998C" stroke-opacity=".35"/>
+  <text x="76" y="311" fill="#567366" font-family="Noto Sans CJK SC,PingFang SC,Microsoft YaHei,sans-serif" font-size="17" letter-spacing="3">实验报告 · 学习笔记 · 灵感存档</text>
+  <g stroke="#668C79" stroke-linecap="round">
+    <path d="M1006 184C1013 234 994 280 972 351" stroke-width="2"/>
+    <path d="M990 305C1031 278 1073 281 1098 252C1065 243 1016 251 990 305Z" fill="#9DB8A0" stroke-width="1.2"/>
+    <path d="M1004 296L1085 260" stroke-width="1"/>
+    <path d="M987 306C944 303 909 273 885 249C923 234 972 260 987 306Z" fill="#769C87" stroke-width="1.2"/>
+    <path d="M976 296L899 254" stroke="#D5E4D4" stroke-width="1"/>
   </g>
+  <circle cx="1006" cy="164" r="139" stroke="#9DB5A2" stroke-opacity=".35"/>
+  <circle cx="1006" cy="164" r="128" stroke="#9DB5A2" stroke-opacity=".16"/>
+  <g transform="translate(1006 167)" fill="url(#petal)" stroke="#B9C9B5" stroke-width="1.1">
+    <use href="#outer-petal" transform="rotate(0)"/>
+    <use href="#outer-petal" transform="rotate(60)"/>
+    <use href="#outer-petal" transform="rotate(120)"/>
+    <use href="#outer-petal" transform="rotate(180)"/>
+    <use href="#outer-petal" transform="rotate(240)"/>
+    <use href="#outer-petal" transform="rotate(300)"/>
+    <use href="#inner-petal" transform="rotate(30)"/>
+    <use href="#inner-petal" transform="rotate(90)"/>
+    <use href="#inner-petal" transform="rotate(150)"/>
+    <use href="#inner-petal" transform="rotate(210)"/>
+    <use href="#inner-petal" transform="rotate(270)"/>
+    <use href="#inner-petal" transform="rotate(330)"/>
+    <circle r="22" fill="url(#heart)" stroke="#C6C9A1"/>
+    <path d="M-14 6C-21-7-8-20 6-14C22-7 15 13 2 15C-9 17-15 5-6-1C1-5 7 1 4 7" stroke="#B9B684" stroke-width="1.4"/>
+  </g>
+  <text x="1169" y="307" fill="#6A8A79" font-family="Georgia,serif" font-size="12" letter-spacing="2" transform="rotate(-90 1169 307)">STAY CURIOUS</text>
 </svg>
