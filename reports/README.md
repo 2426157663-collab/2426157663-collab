@@ -1,7 +1,13 @@
-# 实验报告
+## 实验报告
 
-> 观察、记录、分析，让每一次探索留下痕迹。
+按实验主题分类，包含报告、测量数据与配套资料。
 
-这里用于存放实验报告、相关图表与附件。目前还没有上传报告。
+- [数字信号分析与处理](digital-signal-processing/)
+- [重磁电综合实验](gravity-magnetic-electrical/)
+- [岩石物理](rock-physics/)
+- [地震物理模拟](seismic-physical-modeling/)
+- [地震层析成像](seismic-tomography/)
 
-[← 回到栀子海](https://github.com/2426157663-collab)
+<sub>公开副本已清除已检出的身份信息，实验测量值保留。</sub>
+
+[返回主页](https://github.com/2426157663-collab)
