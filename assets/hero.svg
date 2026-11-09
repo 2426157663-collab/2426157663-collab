@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Build with purpose</title>
+  <desc id="desc">A midnight blue banner with a mint green code motif and the GitHub handle 2426157663-collab.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="340" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101E37"/>
+      <stop offset="1" stop-color="#172F46"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#CCE7EF" stroke-opacity=".045"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1280" height="340" rx="20" fill="url(#grid)"/>
+  <circle cx="1190" cy="-10" r="205" stroke="#98E2CA" stroke-opacity=".10"/>
+  <circle cx="1190" cy="-10" r="150" stroke="#98E2CA" stroke-opacity=".10"/>
+  <rect x="64" y="58" width="28" height="4" rx="2" fill="#9CE4C9"/>
+  <text x="105" y="66" fill="#9CE4C9" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3">A PERSONAL WORKSPACE</text>
+  <text x="64" y="150" fill="#F1F6FC" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-2">Build with purpose.</text>
+  <text x="67" y="197" fill="#ADBDCF" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif" font-size="22">Small ideas. Useful software. Steady progress.</text>
+  <path d="M66 235H780" stroke="#BFD5E5" stroke-opacity=".15"/>
+  <text x="67" y="278" fill="#D2E0EB" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="19">@2426157663-collab</text>
+  <g transform="translate(942 89)">
+    <rect width="224" height="164" rx="18" fill="#0D2032" stroke="#8AB3C6" stroke-opacity=".25"/>
+    <path d="M0 38H224" stroke="#8AB3C6" stroke-opacity=".15"/>
+    <circle cx="22" cy="20" r="4" fill="#9CE4C9"/>
+    <circle cx="38" cy="20" r="4" fill="#4E7186"/>
+    <circle cx="54" cy="20" r="4" fill="#4E7186"/>
+    <path d="M70 74L43 101L70 128M154 74L181 101L154 128M125 66L100 137" stroke="#9CE4C9" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
